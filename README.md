@@ -1,5 +1,5 @@
 # doonpublicschoolbysaiyansh
-A clone source code made by saiyansh sethi
+ source code made by saiyansh sethi
 
 https://doonpublicschoolbysaiyansh.000webhostapp.com/
 
